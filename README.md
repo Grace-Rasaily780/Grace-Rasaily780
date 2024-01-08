@@ -23,3 +23,5 @@ For example, I recently led a web dev project end-to-end, combining my technical
 - Email: rasailygrace56@gmail.com
 
 I'm starting an exciting new chapter as I prepare for upcoming college studies. I'm always down for collaborating, gaining knowledge, and having great tech conversations!
+
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Rasaily780)](https://github.com/anuraghazra/github-readme-stats)
