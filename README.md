@@ -6,7 +6,7 @@ I'm passionate about technology, leadership, public speaking, art, social servic
 
 In 2019, I started my journey as a freelance web developer and have since worked on projects for numerous clients. Due to my dedication and innovation, I now occupy an important developer role at CABTM NEPAL. As CTO of several non-profit organizations, I've led teams to reach new technological heights.
 
-Skills: REACT / JS / HTML / CSS / NODE / MONGODB / EXPREss
+Skills: REACT / JS / HTML / CSS / NODE / MONGODB / EXPRESS
 
 - 🔭 I’m currently working on YEAR 2024 - 24 PROJECTS 
 - 🌱 I’m currently learning Data Structures and Algorithm 
