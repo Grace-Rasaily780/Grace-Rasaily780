@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Grace Rasaily
 #### I'm a Full Stack Developer, CTO, and Tech Enthusiast 💻
+
+![Static Badge](https://img.shields.io/badge/Wannabe%20Productive?logo=PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InJlZCIvPjwvc3ZnPg)
+
 ![I'm a Full Stack Developer, CTO, and Tech Enthusiast 💻](https://i.ibb.co/vwXsWPT/Linked-In-cover-2.png)
 
 I'm passionate about technology, leadership, public speaking, art, social service, and creativity. I was born and raised in Nepal.
