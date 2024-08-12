@@ -9,8 +9,8 @@ In 2019, I started my journey as a freelance web developer and have since worked
 
 Skills: REACT / JS / HTML / CSS / NODE / MONGODB / EXPRESS
 
-- 🔭 I’m currently working on YEAR 2024 - 24 PROJECTS 
-- 🌱 I’m currently learning Data Structures and Algorithm 
+- I' m currently working as a freenlance full stack web developer
+- I’m currently learning Data Structures and Algorithm 
 
 
 
