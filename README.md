@@ -25,3 +25,5 @@ Skills: REACT / JS / HTML / CSS / NODE / MONGODB / EXPRESS
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Rasaily780)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/gracerasaily"><img src="https://api.daily.dev/devcards/v2/2cKUOzoPNVtkjnolabStE.png?r=89o&type=wide" width="652" alt="Grace Rasaily's Dev Card"/></a>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64df3371ced78d293524ec0b?variant=light&roadmaps=frontend%2Ccomputer-science%2Creact%2Cdatastructures-and-algorithms)](https://roadmap.sh)
